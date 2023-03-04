@@ -1,0 +1,3 @@
+export const FETCH_INTERVAL = 5000;
+export const VC_CONTRACT_ADDRESS = '0xe89d402e8588b73dd1676a49f86f6c749f25442b';
+export const VC_STAKE_ADDRESS = '0xba3ab22ab5e55800e9f075b4709da069e04b1a7d';
